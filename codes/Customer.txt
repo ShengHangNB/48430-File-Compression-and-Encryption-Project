@@ -1,0 +1,10 @@
+1 Leslie Male debit 5000 >50k
+2 Bruce Male debit 4000 >50k
+3 Daisy Female credit 3000 <50k
+4 Barry Male credit 8000 >50k
+5 Helen Female debit 1000 <50k
+6 Jessica Female credit -1000 <50k
+7 Jane Female credit 200 >50k
+8 William Male debit 10000 >50k
+9 John Male debit 50000 >50k
+10 Yuki Female credit 2000 >50k
