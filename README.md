@@ -17,14 +17,7 @@ Final mark for this subject: 97/100
 | Liam Jiang | Implement the Caesar Cipher File Encryption and decryption(Displayed as "High security" during the encryption and decryption features of the program) |
 | Longhao Zhu | Implement the XOR File Encryption and decryption(Displayed as "Low security" during the encryption and decryption features of the program), implement the file sort algorithm  |
 
-# Data-Flow Diagram and System Design
-
-The data flow diagram of the entire project is shown as follows.The user can have an overview of this project according to this picture and view the flow of data by the arrows. The leftmost “customer.txt” is the database prepared to be used in the project, there are six attributes totally for each row, which are “ID”, “Name”, “Gender”, “Account type”, “Account Balance”, “Annual income”. The user may experience different features by following the red word “Recall” and the oval with a red border. The squares connected with the green word “Output” are the ultimate output files.
-
-
-![image](https://github.com/ShengHangNB/README-images/blob/main/C%20Project%20Data-flow%20diagram%20.png)
-
-## Program runs instruction:
+# Program runs instruction:
 
 please type "make" command in the terminal to compile all the c sources codes, then type "./main.out" to run the Program
 
@@ -34,6 +27,15 @@ Running Environment: Linux <br>
 Another commands: <br> 
 make clean: clean all the compiled files in the directory. <br>
 make cleanf: clean all the intermediate  files generated during the program. <br>
+
+# Data-Flow Diagram and System Design
+
+The data flow diagram of the entire project is shown as follows.The user can have an overview of this project according to this picture and view the flow of data by the arrows. The leftmost “customer.txt” is the database prepared to be used in the project, there are six attributes totally for each row, which are “ID”, “Name”, “Gender”, “Account type”, “Account Balance”, “Annual income”. The user may experience different features by following the red word “Recall” and the oval with a red border. The squares connected with the green word “Output” are the ultimate output files.
+
+
+![image](https://github.com/ShengHangNB/README-images/blob/main/C%20Project%20Data-flow%20diagram%20.png)
+
+
 
 ## Program Designs:
 
