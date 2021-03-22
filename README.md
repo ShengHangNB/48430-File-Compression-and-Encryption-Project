@@ -12,9 +12,9 @@ Final mark for this subject: 97/100
 
 |Name | Role |
 |------ | ------- |
-| Hang Sheng | Implement the Huffman Coding Compression and Decompression (Displayed as "high efficient" during the program) ; implement the searching algorithm |
+| Hang Sheng | Implement the Huffman Coding Compression and Decompression (Displayed as "Efficient" during the program) ; implement the searching algorithm |
 | Longhao Zhu | Implement the XOR File Encryption and decryption(Displayed as "low security" during the program), implement the file sort algorithm  |
-| Wei Chen  | Implement the Run-length-coding File Compression (Displayed as "low efficient" during the program) |
+| Wei Chen  | Implement the Run-length-coding File Compression (Displayed as "Inefficient" during the program) |
 | Liam Jiang | Implement the Caesar Cipher File Encryption and decryption(Displayed as "high security" during the program) |
 
 # Data-Flow Diagram and System Design
