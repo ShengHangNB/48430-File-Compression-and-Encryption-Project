@@ -10,7 +10,7 @@ Final mark for this subject: 97/100
 
 # Data-Flow Diagram and System Design
 
-The data flow diagram of the entire project is shown in appendix A.The user can have an overview of this project according to this picture and view the flow of data by the arrows. The leftmost “customer.txt” is the database prepared to be used in the project, there are six attributes totally for each row, which are “ID”, “Name”, “Gender”, “Account type”, “Account Balance”, “Annual income”. The user may experience different features by following the red word “Recall” and the oval with a red border. The squares connected with the green word “Output” are the ultimate output files.
+The data flow diagram of the entire project is shown as follows.The user can have an overview of this project according to this picture and view the flow of data by the arrows. The leftmost “customer.txt” is the database prepared to be used in the project, there are six attributes totally for each row, which are “ID”, “Name”, “Gender”, “Account type”, “Account Balance”, “Annual income”. The user may experience different features by following the red word “Recall” and the oval with a red border. The squares connected with the green word “Output” are the ultimate output files.
 
 
 ![image](https://github.com/ShengHangNB/README-images/blob/main/C%20Project%20Data-flow%20diagram%20.png)
