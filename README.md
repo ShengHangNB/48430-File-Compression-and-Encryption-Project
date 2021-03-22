@@ -8,9 +8,9 @@ Team members: Wei Chen, Liam Jiang, Longhao Zhu
 Project mark: 29.76/30<br>
 Final mark for this subject: 97/100
 
-# Program runs instruction:
+# Project runs instruction:
 
-please type "make" command in the terminal to compile all the c sources codes, then type "./main.out" to run the Program
+Please type "make" command in the terminal to compile all the c sources codes, then type "./main.out" to run the Program
 
 Language Standard: C90 <br>
 Running Environment: Linux <br>
@@ -40,6 +40,8 @@ The data flow diagram of the entire project is shown as follows.The user can hav
 
 
 ## Program Designs:
+
+The user can run the program as the following design:
 
 1. Read data > Compress data > Decompress Data > Output Data
 
