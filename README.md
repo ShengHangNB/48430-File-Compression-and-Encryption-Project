@@ -8,15 +8,6 @@ Team members: Wei Chen, Liam Jiang, Longhao Zhu
 Project mark: 29.76/30<br>
 Final mark for this subject: 97/100
 
-# Role Duty
-
-|Name | Role |
-|------ | ------- |
-| Hang Sheng | Implement the Huffman Coding Compression and Decompression (Displayed as "Efficient Compression" during the program) ; implement the searching algorithm |
-| Wei Chen  | Implement the Run-length-coding File Compression (Displayed as "Inefficient Compression" during the program) |
-| Liam Jiang | Implement the Caesar Cipher File Encryption and decryption(Displayed as "High security" during the encryption and decryption features of the program) |
-| Longhao Zhu | Implement the XOR File Encryption and decryption(Displayed as "Low security" during the encryption and decryption features of the program), implement the file sort algorithm  |
-
 # Program runs instruction:
 
 please type "make" command in the terminal to compile all the c sources codes, then type "./main.out" to run the Program
@@ -27,6 +18,17 @@ Running Environment: Linux <br>
 Another commands: <br> 
 make clean: clean all the compiled files in the directory. <br>
 make cleanf: clean all the intermediate  files generated during the program. <br>
+
+# Role Duty
+
+|Name | Role |
+|------ | ------- |
+| Hang Sheng | Implement the Huffman Coding Compression and Decompression (Displayed as "Efficient Compression" during the program) ; implement the searching algorithm |
+| Wei Chen  | Implement the Run-length-coding File Compression (Displayed as "Inefficient Compression" during the program) |
+| Liam Jiang | Implement the Caesar Cipher File Encryption and decryption(Displayed as "High security" during the encryption and decryption features of the program) |
+| Longhao Zhu | Implement the XOR File Encryption and decryption(Displayed as "Low security" during the encryption and decryption features of the program), implement the file sort algorithm  |
+
+
 
 # Data-Flow Diagram and System Design
 
